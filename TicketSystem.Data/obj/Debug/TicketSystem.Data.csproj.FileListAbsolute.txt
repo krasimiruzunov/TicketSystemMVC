@@ -1,0 +1,32 @@
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\EntityFramework.dll
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\EntityFramework.xml
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dropbox\ASP.NET Exam\Exam.Data\obj\Debug\TicketSystem.Data.csprojResolveAssemblyReference.cache
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\TicketSystem.Data.dll.config
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\TicketSystem.Data.dll
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\TicketSystem.Data.pdb
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\TicketSystem.Models.dll
+D:\Dropbox\ASP.NET Exam\Exam.Data\bin\Debug\TicketSystem.Models.pdb
+D:\Dropbox\ASP.NET Exam\Exam.Data\obj\Debug\TicketSystem.Data.dll
+D:\Dropbox\ASP.NET Exam\Exam.Data\obj\Debug\TicketSystem.Data.pdb
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\obj\Debug\TicketSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\obj\Debug\Exam.Data.dll
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\obj\Debug\Exam.Data.pdb
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Exam.Data.dll.config
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Exam.Data.dll
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Exam.Data.pdb
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Exam.Models.dll
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Exam.Models.pdb
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\USER\Desktop\New folder\ASP.NET MVC\TicketSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
